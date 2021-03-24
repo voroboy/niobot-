@@ -1,7 +1,7 @@
 {
-  "prefix": "PREFIX HERE",
-  "token": "TOKEN HERE",
-  "MozambiqueAPI": "APEXLEGENDSAPI API KEY HERE",
+  "prefix": "!",
+  "token": "NTg4MDIyMTc3ODc4NTA3NTMx.XP_EVA.B96XJhR-IBrloZdlomZ-oS3nKPw",
+  "MozambiqueAPI": "0g65NHtKi4pl04W5XX2N",
   "ApexAPI": "REXX API KEY HERE",
   "topGG": "0 = disabled, otherwise use API key",
   "DELToken": "0 = disabled, otherwise use API key",

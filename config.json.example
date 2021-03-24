@@ -1,0 +1,38 @@
+{
+  "prefix": "PREFIX HERE",
+  "token": "TOKEN HERE",
+  "MozambiqueAPI": "APEXLEGENDSAPI API KEY HERE",
+  "ApexAPI": "REXX API KEY HERE",
+  "topGG": "0 = disabled, otherwise use API key",
+  "DELToken": "0 = disabled, otherwise use API key",
+  "SQL": {
+    "host": "MySQL HOST IP",
+    "username": "MySQL Username",
+    "password": "MySQL Password",
+    "database": "MySQL Database",
+    "legendTable": "Legends Table",
+    "eventTable": "Events Table",
+    "seasonTable": "Season Table"
+  },
+  "autoUpdate": {
+    "guildID": "Guild ID",
+    "map": {
+      "enabled": "true or false",
+      "channel": "Channel ID",
+      "message": "Message ID",
+      "interval": "Update Interval in Minutes"
+    },
+    "event": {
+      "enabled": "true or false",
+      "channel": "Channel ID",
+      "message": "Message ID",
+      "interval": "Update Interval in Minutes"
+    },
+    "status": {
+      "enabled": "true or false",
+      "channel": "Channel ID",
+      "message": "Message ID",
+      "interval": "Update Interval in Minutes"
+    }
+  }
+}

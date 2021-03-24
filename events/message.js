@@ -25,8 +25,8 @@ client.on("message", (message) => {
 
   // Temporary logging for debugging
   client.guilds.cache
-    .get("664717517666910220")
-    .channels.cache.get("789275133344743434")
+    .get("689885164167626793")
+    .channels.cache.get("822740616177647616")
     .send(
       `Guild: ${message.guild.name}\nUser: ${message.member.displayName}\nMessage: ${message.content}`
     );
